@@ -13,7 +13,7 @@ O objetivo deste repositório é fornecer uma base de dados em SQL para ordens d
 4. ordens de servico- armazena informações sobre as ordens de serviço, incluindo dados, preços e status.
 SQL do script
 <hr>
-O script SQL completo para criar as tabelas e inserir dados de amostra está incluído no repositório. O script também contém exemplos de consultas básicas Select, insert,update,delete, Inner Join, Count(*) group by, View, Procedure entre outros... 
+O script SQL completo para criar as tabelas e inserir dados de amostra estará incluído no repositório. O script também terá exemplos de consultas básicas Select, insert,update,delete, Inner Join, Count(*) group by, View, Procedure entre outros... 
 
 
 ## Licença
