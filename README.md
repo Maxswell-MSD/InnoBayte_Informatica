@@ -15,6 +15,13 @@ SQL do script
 <hr>
 O script SQL completo para criar as tabelas e inserir dados de amostra estará incluído no repositório. O script também terá exemplos de consultas básicas Select, insert,update,delete, Inner Join, Count(*) group by, View, Procedure entre outros... 
 
+## ferramentas que será usada no projeto da Modelagem de dados e Programação:
+
+1. BrModelo
+2. StarUML
+3. MySQL
+4. Python
+5. VM para armazenar o Banco de Dados.
 
 ## Licença
 Este repositório está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais detalhes.
