@@ -5,7 +5,7 @@ Este é um repositório para armazenar dados de ordem de serviço em SQL do Proj
 O objetivo deste repositório é fornecer uma base de dados em SQL para ordens de serviço. Ele contém tabelas que armazenam informações sobre clientes,Endereço,Telefone, Equipamento e Ordem de serviço. O esquema de banco de dados é projetado para ser simples e fácil de entender, mas também completo o suficiente para ser usado como uma base sólida para projetos maiores e com a programação em MySQL Procedure dentro do SQL.
 
 ## Tabelas
-** O repositório contém as seguintes tabelas **:
+**O repositório contém as seguintes tabelas**:
 
 1. Clientes- armazena informações sobre os clientes que enviam como ordens de serviço..
 2. Endereço- armazena Informações de vários endereços do cliente.
