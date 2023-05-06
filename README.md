@@ -10,13 +10,11 @@ O objetivo deste repositório é fornecer uma base de dados em SQL para ordens d
 1. Clientes- armazena informações sobre os clientes que enviam como ordens de serviço..
 2. Endereço- armazena Informações de vários endereços do cliente.
 3. Telefone- cliente pode ter vários números e tipos de telefone (Residencial,Comercial ou Celular)
-4. ordens_de_servico- armazena informações sobre as ordens de serviço, incluindo dados, preços e status.
+4. ordens de servico- armazena informações sobre as ordens de serviço, incluindo dados, preços e status.
 SQL do script
 <hr>
 O script SQL completo para criar as tabelas e inserir dados de amostra está incluído no repositório. O script também contém exemplos de consultas básicas Select, insert,update,delete, Inner Join, Count(*) group by, View, Procedure entre outros... 
 
-## contribuição
-Contribuições são bem-vindas neste repositório. Sinta-se livre para fazer um fork do repositório e enviar um pull request com suas melhorias.
 
 ## Licença
 Este repositório está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais detalhes.
